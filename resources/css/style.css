@@ -1,1 +1,10 @@
-
+* {
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+}
+.title-banner {
+    size: 50px;
+    color: white;
+    font-weight: normal;
+}
