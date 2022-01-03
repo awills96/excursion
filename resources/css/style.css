@@ -2,6 +2,7 @@
     font-family: Verdana;
     text-align: center;
     background-color: black;
+    color:white;
 }
 .title-banner {
     size: 50px;
@@ -12,4 +13,18 @@
 .link {
     color: aquamarine;
     size: 16px;
+}
+
+.small-banner {
+    font-weight: 300;
+    size: 42px;
+}
+
+p {
+    color:gray;
+    size: 21px;
+}
+
+.copyright{
+    text-align: right;
 }
